@@ -28,7 +28,7 @@ const LandingPage = (props, context) => {
           <br />
           <p> June 15 - August 15 </p>
           <br />
-          (Deadline end of April)
+          (Deadline end of 15th of May))
           </div>
           <SocialIcons />
         </div>
