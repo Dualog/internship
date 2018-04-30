@@ -21,7 +21,7 @@ const LandingPage = (props, context) => {
           <p><b> Who are we?</b></p>
           <p>A global company that delivers software to the maritime industry.</p>
           <br />
-          <p><b> What to do?</b></p>
+          <p><b> What we want you for?</b></p>
           <p>Arrange a hackathon, then develop an idea based on it.</p>
           <br />
             <b><a href="mailto:fredrik@dualog.com?subject=Dualog%20Summer%20internship%202018%20-%20YOUR_NAME"> APPLY NOW! </a></b>
