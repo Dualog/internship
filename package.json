@@ -2,7 +2,7 @@
   "name": "react-landing-page",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://dualog.github.io/internship/",
+  "homepage": "https://dualog.github.io/internship/",
   "scripts": {
     "start": "node scripts/start.js",
     "start:prod": "ENV=prod node scripts/start.js",

@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 import './style';
 
-const ParallaxBackground = (props, context) => {
+const ParallaxBackground = (_, context) => {
   const { theme: { colorPrimary } } = context;
 
   return (

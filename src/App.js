@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import LandingPage from '@pages/LandingPage';
 import ParallaxBackground from '@components/ParallaxBackground';
 import ThemeSwitcher from '@components/ThemeSwitcher';
-import Browser from '@components/Browser';
 
 class App extends Component {
 
@@ -10,9 +9,7 @@ class App extends Component {
     return (
       <div className="dev-landing-page">
         <ThemeSwitcher>
-          <Browser except firefox>
-            <ParallaxBackground />
-          </Browser>
+          <ParallaxBackground />
           <LandingPage />
         </ThemeSwitcher>
       </div>
