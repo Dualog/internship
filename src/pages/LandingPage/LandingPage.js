@@ -5,7 +5,7 @@ import Nav from '@components/Nav';
 
 import './style.scss';
 
-const LandingPage = (props, context) => {
+const LandingPage = (_, context) => {
   const { theme: { bgPrimary, colorPrimary } } = context;
 
   return (
@@ -28,7 +28,7 @@ const LandingPage = (props, context) => {
             <p>Develop software that is useful for our customers.</p>
             <br />
             <br />
-            <b><a href="mailto:fredrik@dualog.com?subject=Dualog%20Summer%20internship%202018%20-%20YOUR_NAME"> APPLY NOW! </a></b>
+            <b><a href="mailto:jobs@dualog.com?subject=Dualog%20Summer%20internship%202018%20-%20YOUR_NAME"> APPLY NOW! </a></b>
             <br />
             <br />
             <br />
