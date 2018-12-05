@@ -28,7 +28,7 @@ const LandingPage = (_, context) => {
             <p>Develop software that is useful for our customers.</p>
             <br />
             <br />
-            <b><a href="mailto:fredrik@dualog.com?subject=Dualog%20Summer%20internship%202018%20-%20YOUR_NAME"> APPLY NOW! </a></b>
+            <b><a href="mailto:fredrik@dualog.com?subject=Dualog%20Summer%20internship%20-%20YOUR_NAME"> APPLY NOW! </a></b>
             <br />
             <br />
             <br />
