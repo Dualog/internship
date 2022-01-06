@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+// Fonts
+@import '../src/assets/fonts/Poppins/Poppins.css';
+@import '../src/assets/fonts/Roboto/Roboto.css';
+
+body {
+  font-family: Roboto;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+  overflow-y: scroll;
+  background: var(--dualog-white);
+  -webkit-font-smoothing: antialiased;
+}
