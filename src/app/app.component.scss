@@ -19,7 +19,7 @@ li {
   flex-direction: row;
   justify-content: space-around;
 
-  @media (max-width: 600px) {
+  @media (max-width: 700px) {
     flex-direction: column;
   }
 }
@@ -30,8 +30,13 @@ li {
   flex-wrap: none;
   gap: 1rem;
 
-  @media (max-width: 600px) {
+  @media (max-width: 800px) {
     flex-direction: column;
     gap: 4rem;
   }
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
 }
