@@ -1,5 +1,5 @@
 # Dualog Internship Page
-Repository for [Dualog summer internship page](dualog.github.io/internship/).
+Repository for [Dualog summer internship page](https://dualog.github.io/internship/).
 
 
 ## Build
